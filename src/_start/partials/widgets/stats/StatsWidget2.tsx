@@ -422,7 +422,7 @@ function getChartOptions(
       bar: {
         horizontal: false,
         columnWidth: "30%",
-        endingShape: "rounded",
+       // endingShape: "rounded",
       },
     },
     legend: {
